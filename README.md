@@ -13,7 +13,7 @@ The worm that lives in 8*8 LED matrix :bug:
 
 # System
 
-Python script ("led_worm.py") generates the animations (Sequencial 2d matrices) and send to the Arduino device with serial communication.
+Python script ("led_worm.py") generates the animation (Sequencial 2d matrices) and sends to the Arduino device with serial communication.
 And the LED matrix is controlled by the Arduino device which runs "sketch_led_worm.ino".
 
 # Misc
